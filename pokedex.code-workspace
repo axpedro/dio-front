@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../pokedex"
+		},
+		{
+			"path": "../Desafios-Dio"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Dio-Front"
+	}
+}
